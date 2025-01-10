@@ -1,8 +1,11 @@
 # E-COMMERCE-DIO
 Desafio Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 
+
 Aluno: Rafael Uchôa Ribeiro
+
 Digital Innovation One
+
 Instrutora:Juliana Mascarenhas
 
 #Tecnologias
